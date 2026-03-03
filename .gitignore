@@ -1,0 +1,29 @@
+# API密钥和环境变量（绝不提交）
+.env
+.env.local
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# 虚拟环境目录
+venv/
+env/
+ENV/
+
+# IDE配置文件
+.idea/
+.vscode/
+
+# 运行时生成的上传文件
+uploads/
+temp/
+
+# OCR模型大文件
+*.pth
+*.onnx
+.DS_Store
+"@ | Out-File -FilePath ".gitignore" -Encoding utf8
+

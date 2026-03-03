@@ -1,0 +1,11 @@
+gradio==4.44.0
+openai>=1.0.0
+pandas
+PyMuPDF
+openpyxl
+easyocr
+pillow
+python-dotenv
+python-docx
+pydantic
+tenacity
